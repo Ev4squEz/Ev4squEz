@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elvis Vasquez</h1>
 <h3 align="center">I am an experienced system and server administrator with a proven track record installing, configuring, and securing IT infrastructures.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
